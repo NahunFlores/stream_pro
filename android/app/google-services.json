@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095165497045",
+    "project_id": "streampro-9774e",
+    "storage_bucket": "streampro-9774e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095165497045:android:778eada03498b34ec59c5c",
+        "android_client_info": {
+          "package_name": "com.example.stream_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095165497045-fcuecauela0r13sj1q6sjighkab4hq72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDGCqamaIYCxlaesxCseXV9xsPIRtEnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095165497045-fcuecauela0r13sj1q6sjighkab4hq72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
